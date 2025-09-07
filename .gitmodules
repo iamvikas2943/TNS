@@ -1,0 +1,6 @@
+[submodule "TNS_DSA"]
+	path = TNS_DSA
+	url = https://github.com/naynajn05/TNS_DSA
+[submodule "TNS_Deep-Learning"]
+	path = TNS_Deep-Learning
+	url = https://github.com/naynajn05/TNS_Deep-Learning
